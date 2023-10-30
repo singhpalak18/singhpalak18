@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://iconscout.com/lottie-animation/deep-learning-algorithm-4835194" width="100"/>
-</div>
 ### Hi there,I am Palak 👋
 - 🔭 I’m currently working on Machine learning,NLP and Deep learning
 - 🌱 I’m currently learning MLOps and AI
