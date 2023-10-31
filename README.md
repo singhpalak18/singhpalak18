@@ -5,7 +5,7 @@
   Hey there, I'm Palak 👋🏻
 </h1>
 
-### About Me
+### 👩🏻‍💻About Me
 - 🔭 I’m currently working on Machine learning,NLP and Deep learning
 - 🌱 I’m currently learning MLOps and AI
 - 👯 I’m looking to collaborate on Data structiures and machine learning algorithms
