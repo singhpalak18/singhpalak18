@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif"/>
 </div>
 
-### <h1> Hey there, I'm Palak
+### About Me 
+<h1> Hey there, I'mk Palak
 <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"/> 
 </h1>
 - 🔭 I’m currently working on Machine learning,NLP and Deep learning
