@@ -1,9 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif"/>
-</div>
 <h1>
   Hey there, I'm Palak 👋🏻
 </h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="500px"/>
+</div>
 
 ### 👩🏻‍💻About Me
 - 🔭 I’m currently working on Machine learning,NLP and Deep learning
