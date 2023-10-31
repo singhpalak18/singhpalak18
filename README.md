@@ -4,7 +4,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="500px"/>
 </div>
-<h2></h2>
+<h2>
+  
+</h2>
 
 ### 👩🏻‍💻About Me
 - 🔭 I’m currently working on Machine learning,NLP and Deep learning
@@ -12,6 +14,11 @@
 - 👯 I’m looking to collaborate on Data structiures and machine learning algorithms
 - 💬 Ask me about Machine learning,deep learning, data structures and algorithms
 - 📫 How to reach me: psrinet.18@gmail.com
+
+
+<h3>
+
+</h3>
 
 ### 🛠️Tech Stack 
 <div>
