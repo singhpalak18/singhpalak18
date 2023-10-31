@@ -4,9 +4,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="500px"/>
 </div>
-<h2>
-  
-</h2>
 
 ### 👩🏻‍💻About Me
 - 🔭 I’m currently working on Machine learning,NLP and Deep learning
