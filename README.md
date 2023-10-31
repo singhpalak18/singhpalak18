@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif"/>
 </div>
 
-### <h1> Hey there, I'm Palak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+### <h1> Hey there, I'm Palak <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"/> </h1>
 - 🔭 I’m currently working on Machine learning,NLP and Deep learning
 - 🌱 I’m currently learning MLOps and AI
 - 👯 I’m looking to collaborate on Data structiures and machine learning algorithms
