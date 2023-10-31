@@ -2,7 +2,7 @@
   Hey there, I'm Palak 👋🏻
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="500px"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200px"/>
 </div>
 
 ### 👩🏻‍💻About Me
