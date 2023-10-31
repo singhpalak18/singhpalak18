@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif"/>
 </div>
 
-<h1> Hey there, I'm Palak
+<h1> 
+  Hey there, I'm Palak
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"/>
 </h1>
 
