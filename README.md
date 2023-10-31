@@ -12,7 +12,7 @@
 - 💬 Ask me about Machine learning,deep learning, data structures and algorithms
 - 📫 How to reach me: psrinet.18@gmail.com
 
-### Tools used
+### 🛠️Tech Stack 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-### Connect with me
+### 🤝How to reach me 
 <div id="badges">
   <a href="https://www.linkedin.com/in/palak-singh-4b9294220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
