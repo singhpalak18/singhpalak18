@@ -1,8 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif"/>
 </div>
+<h1>
+  Hey there, I'm Palak 👋🏻
+</h1>
 
-### Hey there, I'm Palak 👋🏻
+### About Me
 - 🔭 I’m currently working on Machine learning,NLP and Deep learning
 - 🌱 I’m currently learning MLOps and AI
 - 👯 I’m looking to collaborate on Data structiures and machine learning algorithms
