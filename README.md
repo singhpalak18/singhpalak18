@@ -16,10 +16,6 @@
 - 📫 How to reach me: psrinet.18@gmail.com
 
 
-<h3>
-
-</h3>
-
 ### 🛠️Tech Stack 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
