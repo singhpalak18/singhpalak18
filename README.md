@@ -4,7 +4,6 @@
 
 
 <h1>
-  Hey there, I'm Palak 
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif"/>
 </h1>
 
