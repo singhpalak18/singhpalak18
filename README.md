@@ -6,9 +6,9 @@
 </div>
 
 ### 👩🏻‍💻About Me
-- 🔭 I’m currently working on Machine learning,NLP and Deep learning
-- 🌱 I’m currently learning MLOps and AI
-- 👯 I’m looking to collaborate on Data structiures and machine learning algorithms
+- 🔭 I’m currently working on Machine learning,Deep learning and NLP
+- 🌱 I’m currently learning databases and backend development 
+- 👯 I’m looking to collaborate on Data engineering and machine learning algorithms 
 - 💬 Ask me about Machine learning,deep learning, data structures and algorithms
 - 📫 How to reach me: psrinet.18@gmail.com
 
