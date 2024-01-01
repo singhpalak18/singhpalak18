@@ -3,7 +3,7 @@
 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="450px"/>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhpalak18&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
 
