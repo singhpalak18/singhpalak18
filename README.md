@@ -3,6 +3,8 @@
 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="450px"/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </div>
 
 ### 👩🏻‍💻About Me
@@ -43,6 +45,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
 
 <!--
 **singhpalak18/singhpalak18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
