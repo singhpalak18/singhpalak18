@@ -6,8 +6,8 @@
 </div>
 
 
-
-<img src=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhpalak18&theme=dark&background=000000)](https://git.io/streak-stats)/>
+<img >
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhpalak18&theme=dark&background=000000&align=center)](https://git.io/streak-stats)
 
 
 ### 👩🏻‍💻About Me
