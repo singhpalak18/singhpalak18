@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="450px"/>
 </div>
 
-###[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhpalak18&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhpalak18&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### 👩🏻‍💻About Me
 - 🔭 I’m currently working on Machine learning,Deep learning and NLP
