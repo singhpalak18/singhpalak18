@@ -6,9 +6,9 @@
 </div>
 
 
-<div align="center">
+
 <img src=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhpalak18&theme=dark&background=000000)](https://git.io/streak-stats)/>
-</div>
+
 
 ### 👩🏻‍💻About Me
 - 🔭 I’m currently working on Machine learning,Deep learning and NLP
