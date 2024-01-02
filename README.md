@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="450px"/>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=singhpalak18&theme=ocean-gradient" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=singhpalak18&theme=ocean-gradient" alt="GitHub Streak" align="center" /></a>
 
 ### 👩🏻‍💻About Me
 - 🔭 I’m currently working on Machine learning,Deep learning and NLP
