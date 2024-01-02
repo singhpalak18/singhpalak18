@@ -2,7 +2,7 @@
   Hey there, I'm Palak 👋🏻
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="450px"/>
+  <img src="C:\Users\palak\Downloads\github-header-image.png" width="450px"/>
 </div>
 
 
