@@ -5,6 +5,7 @@
   <img src="C:\Users\palak\Downloads\github-header-image.png" width="450px"/>
 </div>
 
+![Header](./github-header-image-name.png)
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=singhpalak18&theme=ocean-gradient" alt="GitHub Streak"/></a>
