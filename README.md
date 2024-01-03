@@ -5,8 +5,6 @@
   <img src="https://www.dropbox.com/scl/fi/54buhsifh9wwoxayujub0/github-header-image.png?rlkey=y9u0qecu9alfube1giguzw5bd&dl=0" width="450px"/>
 </div>
 
-![Header](./github-header-image-name.png)
-
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=singhpalak18&theme=ocean-gradient" alt="GitHub Streak"/></a>
 </div>
