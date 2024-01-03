@@ -2,7 +2,7 @@
   Hey there, I'm Palak 👋🏻
 </h1>
 <div id="header" align="center">
-  <img src="C:\Users\palak\Downloads\github-header-image.png" width="450px"/>
+  <img src="https://www.dropbox.com/scl/fi/54buhsifh9wwoxayujub0/github-header-image.png?rlkey=y9u0qecu9alfube1giguzw5bd&dl=0" width="450px"/>
 </div>
 
 ![Header](./github-header-image-name.png)
