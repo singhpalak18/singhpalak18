@@ -48,7 +48,7 @@ nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" heig
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
   </a>
   <a href="https://medium.com/@psrinet.18">
-    <img src="<img src="https://img.shields.io/badge/Medium-pink?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="<img src="https://img.shields.io/badge/Medium-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium Badge"/>
   </a>  
 </div>
 
