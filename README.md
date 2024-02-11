@@ -9,9 +9,9 @@
 
 ### 👩🏻‍💻About Me
 - 🔭 I’m currently working on Machine learning,Deep learning and NLP
-- 🌱 I’m currently learning databases and backend development 
-- 👯 I’m looking to collaborate on Data engineering and machine learning algorithms 
-- 💬 Ask me about Machine learning,deep learning, data structures and algorithms
+- 🌱 I’m currently learning distributed databases and cloud computing  
+- 👯 I’m looking to collaborate on machine learning and deep learning projects 
+- 💬 Ask me about Machine learning,deep learning, databases, data structures and algorithms
 - 📫 How to reach me: psrinet.18@gmail.com
 
 
